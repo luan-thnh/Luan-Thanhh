@@ -50,7 +50,6 @@
     <a href="https://github.com/Luan-Thanhh/github-readme-streak-stats">
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Luan-Thanhh's streak" src="https://streak-stats.demolab.com/?user=Luan-Thanhh&theme=monokai-metallian&hide_border=true"/>
     </a>
-    <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
   </p>
 
 ### :computer: GitHub Profile Stats :
